@@ -1,0 +1,26 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.1.12",
+	"SemVersion": "1.1.12",
+	"FriendlyName": "x3_roads",
+	"Description": "X3-Roads is a mod for creating flat and ramped roads. The mod comes with 52 parts.",
+	"Category": "Modding",
+	"CreatedBy": "x3008x",
+	"CreatedByURL": "https://ficsit.app/mod/CTm5tJXpDfdATU",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "https://ficsit.app/mod/CTm5tJXpDfdATU",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Plugins": [
+		{
+			"Name": "SML",
+			"SemVersion": "^3.0.0",
+			"bIsOptional": false,
+			"Enabled": true
+		}
+	]
+}
